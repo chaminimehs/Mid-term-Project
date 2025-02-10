@@ -15,5 +15,4 @@ An elegant, cross-platform mobile application built with Flutter. Ceylon Booksto
 - **Material Design:** For a consistent, material-themed UI.
 - **JSON (Future Enhancement):** (Optional) Ability to load books dynamically from an API or local JSON file.
 
-## 🖥 Project Structure
 
