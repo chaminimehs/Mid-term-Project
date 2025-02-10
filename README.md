@@ -16,3 +16,4 @@ An elegant, cross-platform mobile application built with Flutter. Ceylon Booksto
 - **JSON (Future Enhancement):** (Optional) Ability to load books dynamically from an API or local JSON file.
 
 
+Figma prototype link: https://www.figma.com/design/i3SXGopkJcOlWeQokLpILF/Untitled?node-id=0-1&t=4gxlG9h41RytR9AH-1
